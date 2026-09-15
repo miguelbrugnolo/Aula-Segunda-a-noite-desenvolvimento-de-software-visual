@@ -1,0 +1,12 @@
+### Raiz do Projeto
+GET  http://localhost:5262
+
+### Segunda Requisição
+GET http://localhost:5262/segundafuncionalidade
+
+### Requisição com o método POST
+POST http://localhost:5262/segundafuncionalidade
+
+#### Requisição para listar produtos
+GET http://localhost:5262/api/produto/listar
+
